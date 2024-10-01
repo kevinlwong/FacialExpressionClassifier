@@ -1,4 +1,4 @@
-# README: CS4210 Machine Learning Assignment 3 - Task 1
+# CS4210 Machine Learning Assignment 3 - Task 1
 
 ### Kaggle username: kevinlwong
 ### Final Kaggle leaderboard score: 0.82244
